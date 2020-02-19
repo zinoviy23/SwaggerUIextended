@@ -1,0 +1,2 @@
+examples:
+  application/xml: '<users><user>Alice</user><user>Bob</user></users>'
