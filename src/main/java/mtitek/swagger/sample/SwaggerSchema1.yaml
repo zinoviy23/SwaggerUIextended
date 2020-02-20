@@ -115,7 +115,7 @@ servers:
       basePath:
         # open meaning there is the opportunity to use special base paths as assigned by the provider, default is `v2`
         default: v2
-  - url: http://localhost:{port}/mtitek-swagger-sample-1.0.0-SNAPSHOT/
+  - url: http://{customerId}}:{port}/mtitek-swagger-sample-1.0.0-SNAPSHOT/
     description: Optional server description, e.g. Internal staging server for testing
     variables:
       customerId:
