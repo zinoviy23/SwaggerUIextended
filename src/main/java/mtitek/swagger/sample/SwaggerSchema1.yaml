@@ -318,7 +318,7 @@ paths:
           content:
             'text/html':
               schema:
-                $ref: '#/components/schemas/ErrorModel'
+                $ref: '#/components/schemas/GeneralError'
       parameters:
         - name: id
           in: path
