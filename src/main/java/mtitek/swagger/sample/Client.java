@@ -11,7 +11,7 @@ import java.net.URL;
 public class Client extends Application {
     private final String CONST = "users";
     public void getEndpointTest1() throws MalformedURLException {
-        HttpUrl aseUrl1 = HttpUrl.get("http://api.example.com");
+        HttpUrl aseUrl1 = HttpUrl.get("https://api.JSON.com/v2/");
 
         System.out.println("sdf");
 
